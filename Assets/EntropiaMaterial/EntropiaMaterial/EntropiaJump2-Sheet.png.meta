@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 5c2e76dcbc269834798e2d633208874b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8895644509317586797
+    second: EntropiaJump2-Sheet_0
+  - first:
+      213: -1229488331960993215
+    second: EntropiaJump2-Sheet_1
+  - first:
+      213: -6444764000107812127
+    second: EntropiaJump2-Sheet_2
+  - first:
+      213: 6223132095085253513
+    second: EntropiaJump2-Sheet_3
+  - first:
+      213: 4145661422279705875
+    second: EntropiaJump2-Sheet_4
+  - first:
+      213: 6895607419806416884
+    second: EntropiaJump2-Sheet_5
+  - first:
+      213: 5493463647731036261
+    second: EntropiaJump2-Sheet_6
+  - first:
+      213: -5055753581411563813
+    second: EntropiaJump2-Sheet_7
+  - first:
+      213: 3705264244211838990
+    second: EntropiaJump2-Sheet_8
+  - first:
+      213: 1481674288786106292
+    second: EntropiaJump2-Sheet_9
+  - first:
+      213: -855742767526408624
+    second: EntropiaJump2-Sheet_10
+  - first:
+      213: -2280855378705769287
+    second: EntropiaJump2-Sheet_11
+  - first:
+      213: -3911793747499327756
+    second: EntropiaJump2-Sheet_12
+  - first:
+      213: -2708735807173548414
+    second: EntropiaJump2-Sheet_13
+  - first:
+      213: 3276714714859492940
+    second: EntropiaJump2-Sheet_14
+  - first:
+      213: -7747174507155106311
+    second: EntropiaJump2-Sheet_15
+  - first:
+      213: -132881755128551796
+    second: EntropiaJump2-Sheet_16
+  - first:
+      213: -8731958025984039547
+    second: EntropiaJump2-Sheet_17
+  - first:
+      213: -5719834331508850407
+    second: EntropiaJump2-Sheet_18
+  - first:
+      213: -7782888168110299627
+    second: EntropiaJump2-Sheet_19
+  - first:
+      213: -889628646411622049
+    second: EntropiaJump2-Sheet_20
+  - first:
+      213: -6641902139860783095
+    second: EntropiaJump2-Sheet_21
+  - first:
+      213: -8900416025841777319
+    second: EntropiaJump2-Sheet_22
+  - first:
+      213: 8954721338486768248
+    second: EntropiaJump2-Sheet_23
+  - first:
+      213: 2759954772384546234
+    second: EntropiaJump2-Sheet_24
+  - first:
+      213: 5160114311475813348
+    second: EntropiaJump2-Sheet_25
+  - first:
+      213: -1939328766597996712
+    second: EntropiaJump2-Sheet_26
+  - first:
+      213: -6572174496157140080
+    second: EntropiaJump2-Sheet_27
+  - first:
+      213: -5910203324052668327
+    second: EntropiaJump2-Sheet_28
+  - first:
+      213: -6283347955381092203
+    second: EntropiaJump2-Sheet_29
+  - first:
+      213: -4783091328181194925
+    second: EntropiaJump2-Sheet_30
+  - first:
+      213: -5314568185129079893
+    second: EntropiaJump2-Sheet_31
+  - first:
+      213: 5581209045374115267
+    second: EntropiaJump2-Sheet_32
+  - first:
+      213: 4166042123380278014
+    second: EntropiaJump2-Sheet_33
+  - first:
+      213: -6301003504643623900
+    second: EntropiaJump2-Sheet_34
+  - first:
+      213: 298145374809819717
+    second: EntropiaJump2-Sheet_35
+  - first:
+      213: 3887710522716045887
+    second: EntropiaJump2-Sheet_36
+  - first:
+      213: 3149318844231350679
+    second: EntropiaJump2-Sheet_37
+  - first:
+      213: -6020411917647891823
+    second: EntropiaJump2-Sheet_38
+  - first:
+      213: -8533670093661537240
+    second: EntropiaJump2-Sheet_39
+  - first:
+      213: 7656507412492606811
+    second: EntropiaJump2-Sheet_40
+  - first:
+      213: 4046858961365022267
+    second: EntropiaJump2-Sheet_41
+  - first:
+      213: -6036960444133031099
+    second: EntropiaJump2-Sheet_42
+  - first:
+      213: -794656827357703076
+    second: EntropiaJump2-Sheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 85
+        width: 132
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a8fd23725c8480800000000000000
+      internalID: -8895644509317586797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 229
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3afd40eaffeee0800000000000000
+      internalID: -1229488331960993215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 226
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea2958a9499f86a0800000000000000
+      internalID: -6444764000107812127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 213
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98393ed3ba10d5650800000000000000
+      internalID: 6223132095085253513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 201
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c5025919588930800000000000000
+      internalID: 4145661422279705875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 201
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fffb10f96e12bf50800000000000000
+      internalID: 6895607419806416884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 194
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560b78df414bc3c40800000000000000
+      internalID: 5493463647731036261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 81
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd60e0c77ea56d9b0800000000000000
+      internalID: -5055753581411563813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 192
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00f333e23ebb6330800000000000000
+      internalID: 3705264244211838990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 181
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7ece75ae6ff8410800000000000000
+      internalID: 1481674288786106292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 172
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e8a72ac7acf14f0800000000000000
+      internalID: -855742767526408624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 144
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc14381e16c850e0800000000000000
+      internalID: -2280855378705769287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 152
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe55bdef4486b9c0800000000000000
+      internalID: -3911793747499327756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 84
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2862a078223a86ad0800000000000000
+      internalID: -2708735807173548414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 59
+        width: 184
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46de712caa397d20800000000000000
+      internalID: 3276714714859492940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 174
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5de0005d18c7490800000000000000
+      internalID: -7747174507155106311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 164
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86ae6c6fb8e72ef0800000000000000
+      internalID: -132881755128551796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 21
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585a993707ad1d680800000000000000
+      internalID: -8731958025984039547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 84
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911c4500bf01f90b0800000000000000
+      internalID: -5719834331508850407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 91
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e1355270adf390800000000000000
+      internalID: -7782888168110299627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 144
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59af94a57767a3f0800000000000000
+      internalID: -889628646411622049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 91
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f0b0b13933d3a0800000000000000
+      internalID: -6641902139860783095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 87
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955c18ae7ce5b7480800000000000000
+      internalID: -8900416025841777319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 46
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8724d1bfc9f854c70800000000000000
+      internalID: 8954721338486768248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 63
+        width: 24
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdff1c1e345d4620800000000000000
+      internalID: 2759954772384546234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 70
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebdce770a86c9740800000000000000
+      internalID: 5160114311475813348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 87
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fda3403ce1615e0800000000000000
+      internalID: -1939328766597996712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 85
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bfbaadd12fac4a0800000000000000
+      internalID: -6572174496157140080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 105
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950028fe36dbafda0800000000000000
+      internalID: -5910203324052668327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 97
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590455f33501dc8a0800000000000000
+      internalID: -6283347955381092203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 109
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f228767cb0f9db0800000000000000
+      internalID: -4783091328181194925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 82
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babe9c6b46cde36b0800000000000000
+      internalID: -5314568185129079893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 91
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd98b66e00747d40800000000000000
+      internalID: 5581209045374115267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 83
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef245631d31c0d930800000000000000
+      internalID: 4166042123380278014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 80
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424b93952b65e88a0800000000000000
+      internalID: -6301003504643623900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 36
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a07f483a9332400800000000000000
+      internalID: 298145374809819717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 23
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32c9085f1ce3f530800000000000000
+      internalID: 3887710522716045887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 36
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7997ad29dc0a4bb20800000000000000
+      internalID: 3149318844231350679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 27
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b1172243337ca0800000000000000
+      internalID: -6020411917647891823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 45
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cfdec5340529980800000000000000
+      internalID: -8533670093661537240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 51
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d54cdfce0614a60800000000000000
+      internalID: 7656507412492606811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 58
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36b440c8c4592830800000000000000
+      internalID: 4046858961365022267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 44
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543cd541678683ca0800000000000000
+      internalID: -6036960444133031099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EntropiaJump2-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54510763dfc8f4f0800000000000000
+      internalID: -794656827357703076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EntropiaJump2-Sheet_0: -8895644509317586797
+      EntropiaJump2-Sheet_1: -1229488331960993215
+      EntropiaJump2-Sheet_10: -855742767526408624
+      EntropiaJump2-Sheet_11: -2280855378705769287
+      EntropiaJump2-Sheet_12: -3911793747499327756
+      EntropiaJump2-Sheet_13: -2708735807173548414
+      EntropiaJump2-Sheet_14: 3276714714859492940
+      EntropiaJump2-Sheet_15: -7747174507155106311
+      EntropiaJump2-Sheet_16: -132881755128551796
+      EntropiaJump2-Sheet_17: -8731958025984039547
+      EntropiaJump2-Sheet_18: -5719834331508850407
+      EntropiaJump2-Sheet_19: -7782888168110299627
+      EntropiaJump2-Sheet_2: -6444764000107812127
+      EntropiaJump2-Sheet_20: -889628646411622049
+      EntropiaJump2-Sheet_21: -6641902139860783095
+      EntropiaJump2-Sheet_22: -8900416025841777319
+      EntropiaJump2-Sheet_23: 8954721338486768248
+      EntropiaJump2-Sheet_24: 2759954772384546234
+      EntropiaJump2-Sheet_25: 5160114311475813348
+      EntropiaJump2-Sheet_26: -1939328766597996712
+      EntropiaJump2-Sheet_27: -6572174496157140080
+      EntropiaJump2-Sheet_28: -5910203324052668327
+      EntropiaJump2-Sheet_29: -6283347955381092203
+      EntropiaJump2-Sheet_3: 6223132095085253513
+      EntropiaJump2-Sheet_30: -4783091328181194925
+      EntropiaJump2-Sheet_31: -5314568185129079893
+      EntropiaJump2-Sheet_32: 5581209045374115267
+      EntropiaJump2-Sheet_33: 4166042123380278014
+      EntropiaJump2-Sheet_34: -6301003504643623900
+      EntropiaJump2-Sheet_35: 298145374809819717
+      EntropiaJump2-Sheet_36: 3887710522716045887
+      EntropiaJump2-Sheet_37: 3149318844231350679
+      EntropiaJump2-Sheet_38: -6020411917647891823
+      EntropiaJump2-Sheet_39: -8533670093661537240
+      EntropiaJump2-Sheet_4: 4145661422279705875
+      EntropiaJump2-Sheet_40: 7656507412492606811
+      EntropiaJump2-Sheet_41: 4046858961365022267
+      EntropiaJump2-Sheet_42: -6036960444133031099
+      EntropiaJump2-Sheet_43: -794656827357703076
+      EntropiaJump2-Sheet_5: 6895607419806416884
+      EntropiaJump2-Sheet_6: 5493463647731036261
+      EntropiaJump2-Sheet_7: -5055753581411563813
+      EntropiaJump2-Sheet_8: 3705264244211838990
+      EntropiaJump2-Sheet_9: 1481674288786106292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
